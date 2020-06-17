@@ -1,0 +1,7 @@
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\bin\Debug\CountryDemoProject.exe.config
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\bin\Debug\CountryDemoProject.exe
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\bin\Debug\CountryDemoProject.pdb
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\obj\Debug\CountryDemoProject.csprojResolveAssemblyReference.cache
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\obj\Debug\CountryDemoProject.csproj.CoreCompileInputs.cache
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\obj\Debug\CountryDemoProject.exe
+F:\TA Project Demo\CountryDemoProject\CountryDemoProject\obj\Debug\CountryDemoProject.pdb
