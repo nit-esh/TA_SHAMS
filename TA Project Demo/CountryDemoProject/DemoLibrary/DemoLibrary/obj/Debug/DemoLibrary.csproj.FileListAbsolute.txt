@@ -1,0 +1,7 @@
+D:\DotNetProject\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\DotNetProject\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\DotNetProject\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+D:\DotNetProject\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\DotNetProject\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\DotNetProject\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.pdb
+D:\DotNetProject\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.xml

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:DemoLibrary.Operations">
+            <summary>
+            Class for mathematical operations
+            </summary>
+        </member>
+        <member name="M:DemoLibrary.Operations.Addition(System.Double,System.Double)">
+            <summary>
+            Addition of two numbers
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DemoLibrary.Operations.Subtraction(System.Double,System.Double)">
+            <summary>
+            Subtraction of two numbers
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DemoLibrary.Operations.Multiply(System.Double,System.Double)">
+            <summary>
+            Multiplication of two numbers
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DemoLibrary.Operations.Divide(System.Double,System.Double)">
+            <summary>
+            Division of two numbers
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
