@@ -1,0 +1,6 @@
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\bin\Debug\Inheritance_Types.dll
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\bin\Debug\Inheritance_Types.pdb
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\obj\Debug\Inheritance_Types.csprojAssemblyReference.cache
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\obj\Debug\Inheritance_Types.csproj.CoreCompileInputs.cache
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\obj\Debug\Inheritance_Types.dll
+D:\DotNetProject\Inheritance_Types\Inheritance_Types\obj\Debug\Inheritance_Types.pdb
