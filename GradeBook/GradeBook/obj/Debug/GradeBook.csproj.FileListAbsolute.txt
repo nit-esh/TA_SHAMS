@@ -1,0 +1,7 @@
+D:\DotNetProject\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+D:\DotNetProject\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+D:\DotNetProject\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+D:\DotNetProject\GradeBook\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+D:\DotNetProject\GradeBook\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+D:\DotNetProject\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+D:\DotNetProject\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
